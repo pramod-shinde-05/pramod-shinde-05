@@ -111,28 +111,6 @@ I'm a Cyber Security student focused on Defensive Security Engineering, Cloud Se
   <img src="https://user-images.githubusercontent.com/74038190/216656969-9a6a3c3c-f17b-47fd-8b5e-65df1820187a.gif" width="60%">
 </p>
 
-## 📁 Featured Security Repositories
-
-<p align="center">
-  <a href="https://github.com/pramod-shinde-05/pdf-malware-analysis-web-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pramod-shinde-05&repo=pdf-malware-analysis-web-toolkit&bg_color=000000&title_color=00ff66&text_color=ffffff&icon_color=00ff66&hide_border=true" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/pramod-shinde-05/usb-device-control-monitoring-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pramod-shinde-05&repo=usb-device-control-monitoring-framework&bg_color=000000&title_color=00ff66&text_color=ffffff&icon_color=00ff66&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pramod-shinde-05/SentinelShield">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pramod-shinde-05&repo=SentinelShield&bg_color=000000&title_color=00ff66&text_color=ffffff&icon_color=00ff66&hide_border=true" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/pramod-shinde-05/secure-file-transfer-monitoring-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pramod-shinde-05&repo=secure-file-transfer-monitoring-system&bg_color=000000&title_color=00ff66&text_color=ffffff&icon_color=00ff66&hide_border=true" />
-  </a>
-</p>
-
 <!-- CYBERPUNK DIVIDER -->
 <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-7f6c-4c26-9c18-2f37259c5a63.gif">
