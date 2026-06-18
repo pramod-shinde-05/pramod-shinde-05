@@ -138,24 +138,6 @@ I'm a Cyber Security student focused on Defensive Security Engineering, Cloud Se
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-7f6c-4c26-9c18-2f37259c5a63.gif">
 </p>
 
-## 📊 System Diagnostics & Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pramod-shinde-05&show_icons=true&bg_color=000000&title_color=00ff66&text_color=ffffff&icon_color=00ff66&hide_border=true" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pramod-shinde-05&background=000000&ring=00ff66&fire=00ff66&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff66&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramod-shinde-05&bg_color=000000&color=00ff66&line=00ff66&point=ffffff&hide_border=true" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00FF66/pramod-shinde-05" width="100%" alt="Contribution Matrix">
-</p>
-
----
-
 ## 🧠 Security Philosophy
 
 > "Security is not a product or a checklist. It is a continuous process of observation, analysis, adaptation, and engineering resilient systems against evolving threats."
