@@ -46,12 +46,12 @@ I'm a Cyber Security student focused on Defensive Security Engineering, Cloud Se
 ## 🛠️ Technical Stack & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,gcp,flask,postgres,mysql,js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,azure,flask,postgres,mysql,js,html,css,git,github" />
 </p>
 
 | Domain | Technologies |
 | :--- | :--- |
-| **🛡️ Cloud Security** | Google Cloud Platform, IAM policies, Cloudflare, Zero Trust Architecture |
+| **🛡️ Cloud Security** | Microsoft Azure, IAM policies, Cloudflare, Zero Trust Architecture |
 | **🔍 Defensive Security** | Threat Detection, Threat Hunting, Endpoint Auditing, Linux Hardening |
 | **🐍 Programming** | Python, Bash, JavaScript |
 | **🤖 Security Automation** | Selenium, Playwright, Python Web Scraping & scripting |
